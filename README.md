@@ -5,7 +5,7 @@
 
 <h2 id=objective>📌 Objetivos</h2>
 
-O objetivo é do projeto é continuar meus estudos na linguagem dart e colocar em prática lógica de programação
+O objetivo do projeto é continuar meus estudos na linguagem dart e colocar em prática lógica de programação
 
 <h2 id=features>⚙️ Funcionalidades </h2>
 
